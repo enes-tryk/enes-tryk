@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enes-tryk
 - 😄 My pronouns are: He/Him 
 - 👀 I’m interested in Mechatroincs and Software Engineering
-- 🌱 I’m currently learning Python, C++ and Javascript
+- 🌱 I’m currently learning Python, C++, HTML and CSS
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enes-tryk&layout=compact)
 
